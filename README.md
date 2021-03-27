@@ -11,8 +11,8 @@
 >##### After developing this game is learned how to:
 >
 > - apply textures.
-> - use a Fist-Person/Third-Person Camera
+> - use a First-Person/Third-Person Camera
 > - apply differents types of lightning to objects
 > - create and design 3D meshes
 > - design custom objects
->  *more about GLSL and C++* .
+> - *more about GLSL and C++* .
